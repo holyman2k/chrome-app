@@ -1,0 +1,18 @@
+{
+  "name": "Wunderkit",
+  "description": "Wunderkit",
+  "version": "1",
+  "app": {
+    "urls": [  "*://www.wunderkit.com"  ],
+    "launch": {
+      "web_url": "http://www.wunderkit.com/login"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}

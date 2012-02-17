@@ -1,0 +1,18 @@
+{
+  "name": "Cloud 9 IDE",
+  "description": "Cloud 9 IDE",
+  "version": "1",
+  "app": {
+    "urls": [  "*://cloud9ide.com"  ],
+    "launch": {
+      "web_url": "http://cloud9ide.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
