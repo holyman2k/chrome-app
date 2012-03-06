@@ -1,6 +1,6 @@
 {
   "name": "Cloud 9 IDE",
-  "description": "Cloud 9 IDE",
+  "description": "Cloud9 IDE - Your code anywhere, anytime",
   "version": "1",
   "app": {
     "urls": [  "*://cloud9ide.com"  ],
@@ -10,6 +10,5 @@
   },
   "icons": {
     "128": "icon_128.png"
-  },
-  "permissions": []
+  }
 }

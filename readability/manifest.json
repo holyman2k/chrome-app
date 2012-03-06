@@ -1,6 +1,6 @@
 {
   "name": "Readability",
-  "description": "Readability",
+  "description": "Readability is a web and mobile app that zaps online clutter and saves web articles in a comfortable reading view.",
   "version": "1",
   "app": {
     "urls": [  "*://www.readability.com"  ],
@@ -10,6 +10,5 @@
   },
   "icons": {
     "128": "icon_128.png"
-  },
-  "permissions": []
+  }
 }

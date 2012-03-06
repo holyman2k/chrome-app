@@ -1,6 +1,6 @@
 {
   "name": "Wunderkit",
-  "description": "Wunderkit",
+  "description": "Another project shouldn't require another place to organize it, it's about time you had a home for everything",
   "version": "1",
   "app": {
     "urls": [  "*://www.wunderkit.com"  ],
@@ -10,6 +10,5 @@
   },
   "icons": {
     "128": "icon_128.png"
-  },
-  "permissions": []
+  }
 }
