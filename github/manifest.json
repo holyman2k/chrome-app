@@ -1,0 +1,14 @@
+{
+  "name": "GitHub",
+  "description": "Online project hosting",
+  "version": "1",
+  "app": {
+    "urls": [  "*://github.com"  ],
+    "launch": {
+      "web_url": "http://github.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}

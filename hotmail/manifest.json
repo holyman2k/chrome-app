@@ -1,0 +1,14 @@
+{
+  "name": "Hotmail",
+  "description": "Powerful free e-mail with security from Microsoft",
+  "version": "1",
+  "app": {
+    "urls": [  "*://live.com"  ],
+    "launch": {
+      "web_url": "http://mail.live.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}

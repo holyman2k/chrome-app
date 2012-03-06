@@ -1,0 +1,14 @@
+{
+  "name": "Instapaper",
+  "description": "Save long web pages to read later, when you have time, on your computer, iPhone, iPad, or Kindle.",
+  "version": "1",
+  "app": {
+    "urls": [  "*://instapaper.com"  ],
+    "launch": {
+      "web_url": "http://www.instapaper.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
