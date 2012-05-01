@@ -1,0 +1,14 @@
+{
+  "name": "Diigo",
+  "description": "Collect Highlight and Remember",
+  "version": "1",
+  "app": {
+    "urls": [  "*://diigo.com"  ],
+    "launch": {
+      "web_url": "http://diigo.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
