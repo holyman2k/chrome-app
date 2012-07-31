@@ -1,0 +1,14 @@
+{
+  "name": "Web Writer",
+  "description": "Web Writer - Online dropbox text editor",
+  "version": "1",
+  "app": {
+    "urls": [  "*://dropwriter.charlie.cloudbees.net"  ],
+    "launch": {
+      "web_url": "http://dropwriter.charlie.cloudbees.net/dropbox/list"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  }
+}
